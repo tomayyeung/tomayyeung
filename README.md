@@ -1,9 +1,8 @@
-## sup
-I'm Thomas, a first-year student at the University of San Francisco. I'm currently taking intro classes but I'm looking to learn a lot more about computer science.
+Hi! 👋
 
-# Fun facts
-- I like running.
-- I have two (2) cats.
+I'm Thomas, a second-year student at the University of San Francisco.
+
+see more about me at [tomay.dev](https://tomay.dev)
 
 <!--
 **tomayyeung/tomayyeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
